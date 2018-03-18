@@ -101,105 +101,126 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 
 #### Examples
 
-<table style="border: 0px solid black; border-color: none; background-color: none;">
-  <tr>
-    <td>
+**Input**
 
-	  <table style="float: left;">
-		<tr>
-		  <td><strong>Input</strong></td>
-		  <td><strong>Output</strong></td>
-		</tr>
-		<tr>
-		  <td>
-		  	Mayro
-			<br>5
-			<br>10
-			<br>9
-			<br>10
-		  </td>
-		  <td>
-			Name: Mayro
-			Health: ||||||.....|
-			Energy: ||||||||||.|
-		  </td>
-		</tr>
-	  </table>
-    </td>
-  	<td>
-	  <table style="float: right;">
-		<tr>
-		  <td><strong>Input</strong></td>
-		  <td><strong>Output</strong></td>
-		</tr>
-		<tr>
-		  <td>
-			Bauser
-			<br>10
-			<br>10
-			<br>10
-			<br>10		  
-		  </td>
-		  <td>
-			Name: Bauser
-			<br>Health: ||||||||||||
-			<br>Energy: ||||||||||||
-		  </td>
-		</tr>
-	  </table>
-	</td>
-</table>
+ 
 
+**Output**
 
-<table style="border: 0px solid black; border-color: none; background-color: none;">
-  <tr>
-    <td>
+ 
 
-	  <table style="float: left;">
-		<tr>
-		  <td><strong>Input</strong></td>
-		  <td><strong>Output</strong></td>
-		</tr>
-		<tr>
-		  <td>
-			Loogi
-			<br>8
-			<br>20
-			<br>2
-			<br>14
+** **
 
-		  </td>
-		  <td>
-			Name: Loogi
-			<br>Health: |||||||||............|
-			<br>Energy: |||............|
-		  </td>
-		</tr>
-	  </table>
-    </td>
-  	<td>
-	  <table style="float: right;">
-		<tr>
-		  <td><strong>Input</strong></td>
-		  <td><strong>Output</strong></td>
-		</tr>
-		<tr>
-		  <td>
-			Toad
-			<br>0
-			<br>5
-			<br>0
-			<br>10  
-		  </td>
-		  <td>
-			Name: Toad
-			<br>Health: |.....|
-			<br>Energy: |..........|
-		  </td>
-		</tr>
-	  </table>
-	</td>
-</table>
+ 
+
+**Input**
+
+ 
+
+**Output**
+
+ 
+
+Mayro
+
+5
+
+10
+
+9
+
+10
+
+ 
+
+Name: Mayro
+
+Health: ||||||.....|
+
+Energy: ||||||||||.|
+
+ 
+
+Bauser
+
+10
+
+10
+
+10
+
+10
+
+ 
+
+Name: Bauser
+
+Health: ||||||||||||
+
+Energy: ||||||||||||
+
+ 
+
+ 
+
+**Input**
+
+ 
+
+**Output**
+
+ 
+
+** **
+
+ 
+
+**Input**
+
+ 
+
+**Output**
+
+ 
+
+Loogi
+
+8
+
+20
+
+2
+
+14
+
+ 
+
+Name: Loogi
+
+Health: |||||||||............|
+
+Energy:
+  |||............|
+
+ 
+
+Toad
+
+0
+
+5
+
+0
+
+10
+
+ 
+
+Name: Toad
+
+Health: |.....|
+
+Energy: |..........|
 
 
 #### Hints
