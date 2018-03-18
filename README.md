@@ -101,7 +101,7 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 
 #### Examples
 
-<table>
+<table style="border: none;">
 <tr>
 <td>
 <table style="float: left;">
@@ -150,7 +150,7 @@ Name: Bauser
 </tr>
 </table>
 
-<table>
+<table style="border: none;">
 <tr>
 <td>
 <table style="float: left;">
