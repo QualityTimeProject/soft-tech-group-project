@@ -93,21 +93,21 @@ Note: **1 mile == 1.60934 kilometers**
 </table>
 
 
-### Problem 5.  * Character Stats
+## Problem 5.  * Character Stats
 
 Write a program, which **displays information** about a video game character. You will receive
 their **name**, **current health**, **maximum
 health**, **current energy** and **maximum energy **on separate lines. The **current** values will **always** be valid (**equal or lower** than their respective **max** values). Print them in the format as per the examples.
 
-#### Examples
+### Examples
 
 <table style="border: none;">
 <tr>
 <td>
 <table style="float: left;">
 <tr>
-<td><strong>Input</strong></td>
-<td><strong>Output</strong></td>
+<th><strong>Input</strong></th>
+<th><strong>Output</strong></th>
 </tr>
 <tr>
 <td>
@@ -128,8 +128,8 @@ Mayro
 <td>
 <table style="float: right;">
 <tr>
-<td><strong>Input</strong></td>
-<td><strong>Output</strong></td>
+<th><strong>Input</strong></th>
+<th><strong>Output</strong></th>
 </tr>
 <tr>
 <td>
@@ -155,8 +155,8 @@ Name: Bauser
 <td>
 <table style="float: left;">
 <tr>
-<td><strong>Input</strong></td>
-<td><strong>Output</strong></td>
+<th><strong>Input</strong></th>
+<th><strong>Output</strong></th>
 </tr>
 <tr>
 <td>
@@ -177,8 +177,8 @@ Loogi
 <td>
 <table style="float: right;">
 <tr>
-<td><strong>Input</strong></td>
-<td><strong>Output</strong></td>
+<th><strong>Input</strong></th>
+<th><strong>Output</strong></th>
 </tr>
 <tr>
 <td>
@@ -200,6 +200,6 @@ Name: Bauser
 </table>
 
 
-#### Hints
+### Hints
 
 · You can print a character **multiple** times, using new string(character, count).
