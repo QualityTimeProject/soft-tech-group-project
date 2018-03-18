@@ -101,9 +101,7 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 
 #### Examples
 
-<table style="border: 0px solid black; border-color: none; background-color: none;">
-  <tr>
-    <td>
+
 	  <table style="float: left;">
 		<tr>
 		  <td><strong>Input</strong></td>
@@ -111,22 +109,21 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 		</tr>
 		<tr>
 		  <td>
-			<p>Mayro</p>
-			<p>5</p>
-			<p>10</p>
-			<p>9</p>
-			<p>10</p>
+			Mayro
+			<br>5
+			<br>10
+			<br>9
+			<br>10
 		  </td>
 		  <td>
-			<p>Name: Mayro</p>
-			<p>Health: ||||||.....|</p>
-			<p>Energy: ||||||||||.|</p>		  	
+			<br>Name: Mayro
+			<br>Health: ||||||.....|
+			<br>Energy: ||||||||||.|  	
 		  </td>
 		</tr>
 	  </table>
-    </td>
 
-  	<td>
+
 	  <table style="float: right;">
 		<tr>
 		  <td><strong>Input</strong></td>
@@ -134,15 +131,20 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 		</tr>
 		<tr>
 		  <td>
-		  
+			Bauser
+			<br>10
+			<br>10
+			<br>10
+			<br>10
 		  /td>
 		  <td>
-
+			Name: Bauser
+			<br>Health: ||||||||||||
+			<br>Energy: ||||||||||||
 		  </td>
 		</tr>
 	  </table>
-	</td>
-</table>
+
 
 
 #### Hints
