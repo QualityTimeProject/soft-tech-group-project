@@ -102,48 +102,48 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 #### Examples
 
 
-	  <table style="float: left;">
-		<tr>
-		  <td><strong>Input</strong></td>
-		  <td><strong>Output</strong></td>
-		</tr>
-		<tr>
-		  <td>
-			Mayro
-			<br>5
-			<br>10
-			<br>9
-			<br>10
-		  </td>
-		  <td>
-			<br>Name: Mayro
-			<br>Health: ||||||.....|
-			<br>Energy: ||||||||||.|  	
-		  </td>
-		</tr>
-	  </table>
+<table style="float: left;">
+<tr>
+<td><strong>Input</strong></td>
+<td><strong>Output</strong></td>
+</tr>
+<tr>
+<td>
+Mayro
+<br>5
+<br>10
+<br>9
+<br>10
+</td>
+<td>
+<br>Name: Mayro
+<br>Health: ||||||.....|
+<br>Energy: ||||||||||.|  	
+</td>
+</tr>
+</table>
 
 
-	  <table style="float: right;">
-		<tr>
-		  <td><strong>Input</strong></td>
-		  <td><strong>Output</strong></td>
-		</tr>
-		<tr>
-		  <td>
-			Bauser
-			<br>10
-			<br>10
-			<br>10
-			<br>10
-		  /td>
-		  <td>
-			Name: Bauser
-			<br>Health: ||||||||||||
-			<br>Energy: ||||||||||||
-		  </td>
-		</tr>
-	  </table>
+<table style="float: right;">
+<tr>
+<td><strong>Input</strong></td>
+<td><strong>Output</strong></td>
+</tr>
+<tr>
+<td>
+Bauser
+<br>10
+<br>10
+<br>10
+<br>10
+/td>
+<td>
+Name: Bauser
+<br>Health: ||||||||||||
+<br>Energy: ||||||||||||
+</td>
+</tr>
+</table>
 
 
 
