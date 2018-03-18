@@ -101,126 +101,48 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 
 #### Examples
 
-**Input**
+<table style="border: 0px solid black; border-color: none; background-color: none;">
+  <tr>
+    <td>
+	  <table style="float: left;">
+		<tr>
+		  <td><strong>Input</strong></td>
+		  <td><strong>Output</strong></td>
+		</tr>
+		<tr>
+		  <td>
+			<p>Mayro</p>
+			<p>5</p>
+			<p>10</p>
+			<p>9</p>
+			<p>10</p>
+		  </td>
+		  <td>
+			<p>Name: Mayro</p>
+			<p>Health: ||||||.....|</p>
+			<p>Energy: ||||||||||.|</p>		  	
+		  </td>
+		</tr>
+	  </table>
+    </td>
 
- 
+  	<td>
+	  <table style="float: right;">
+		<tr>
+		  <td><strong>Input</strong></td>
+		  <td><strong>Output</strong></td>
+		</tr>
+		<tr>
+		  <td>
+		  
+		  /td>
+		  <td>
 
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-Mayro
-
-5
-
-10
-
-9
-
-10
-
- 
-
-Name: Mayro
-
-Health: ||||||.....|
-
-Energy: ||||||||||.|
-
- 
-
-Bauser
-
-10
-
-10
-
-10
-
-10
-
- 
-
-Name: Bauser
-
-Health: ||||||||||||
-
-Energy: ||||||||||||
-
- 
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-Loogi
-
-8
-
-20
-
-2
-
-14
-
- 
-
-Name: Loogi
-
-Health: |||||||||............|
-
-Energy:
-  |||............|
-
- 
-
-Toad
-
-0
-
-5
-
-0
-
-10
-
- 
-
-Name: Toad
-
-Health: |.....|
-
-Energy: |..........|
+		  </td>
+		</tr>
+	  </table>
+	</td>
+</table>
 
 
 #### Hints
