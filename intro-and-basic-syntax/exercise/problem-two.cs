@@ -1,4 +1,4 @@
-﻿
+﻿// CONFIRMED by ad2bg
 using System;
 
 namespace RectangleArea
