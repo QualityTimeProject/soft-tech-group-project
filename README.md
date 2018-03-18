@@ -93,3 +93,115 @@ Note: **1 mile == 1.60934 kilometers**
 </table>
 
 
+### Problem 5.  * Character Stats
+
+Write a program, which **displays information** about a video game character. You will receive
+their **name**, **current health**, **maximum
+health**, **current energy** and **maximum energy **on separate lines. The **current** values will **always** be valid (**equal or lower** than their respective **max** values). Print them in the format as per the examples.
+
+#### Examples
+
+<table style="border: 0px solid black; border-color: none; background-color: none;">
+  <tr>
+    <td>
+
+	  <table style="float: left;">
+		<tr>
+		  <td><strong>Input</strong></td>
+		  <td><strong>Output</strong></td>
+		</tr>
+		<tr>
+		  <td>
+		  	Mayro
+			<br>5
+			<br>10
+			<br>9
+			<br>10
+		  </td>
+		  <td>
+			Name: Mayro
+			Health: ||||||.....|
+			Energy: ||||||||||.|
+		  </td>
+		</tr>
+	  </table>
+    </td>
+  	<td>
+	  <table style="float: right;">
+		<tr>
+		  <td><strong>Input</strong></td>
+		  <td><strong>Output</strong></td>
+		</tr>
+		<tr>
+		  <td>
+			Bauser
+			<br>10
+			<br>10
+			<br>10
+			<br>10		  
+		  </td>
+		  <td>
+			Name: Bauser
+			<br>Health: ||||||||||||
+			<br>Energy: ||||||||||||
+		  </td>
+		</tr>
+	  </table>
+	</td>
+</table>
+
+
+<table style="border: 0px solid black; border-color: none; background-color: none;">
+  <tr>
+    <td>
+
+	  <table style="float: left;">
+		<tr>
+		  <td><strong>Input</strong></td>
+		  <td><strong>Output</strong></td>
+		</tr>
+		<tr>
+		  <td>
+			Loogi
+			<br>8
+			<br>20
+			<br>2
+			<br>14
+
+		  </td>
+		  <td>
+			Name: Loogi
+			<br>Health: |||||||||............|
+			<br>Energy: |||............|
+		  </td>
+		</tr>
+	  </table>
+    </td>
+  	<td>
+	  <table style="float: right;">
+		<tr>
+		  <td><strong>Input</strong></td>
+		  <td><strong>Output</strong></td>
+		</tr>
+		<tr>
+		  <td>
+			Toad
+			<br>0
+			<br>5
+			<br>0
+			<br>10  
+		  </td>
+		  <td>
+			Name: Toad
+			<br>Health: |.....|
+			<br>Energy: |..........|
+		  </td>
+		</tr>
+	  </table>
+	</td>
+</table>
+
+
+#### Hints
+
+· You can print a character **multiple** times, using new string(character, count).
