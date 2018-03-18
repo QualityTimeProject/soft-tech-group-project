@@ -101,7 +101,9 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 
 #### Examples
 
-
+<table>
+<tr>
+<td>
 <table style="float: left;">
 <tr>
 <td><strong>Input</strong></td>
@@ -121,9 +123,9 @@ Mayro
 <br>Energy: ||||||||||.|  	
 </td>
 </tr>
-</table>
-
-
+</table>			
+</td>
+<td>
 <table style="float: right;">
 <tr>
 <td><strong>Input</strong></td>
@@ -136,7 +138,7 @@ Bauser
 <br>10
 <br>10
 <br>10
-/td>
+</td>
 <td>
 Name: Bauser
 <br>Health: ||||||||||||
@@ -144,7 +146,58 @@ Name: Bauser
 </td>
 </tr>
 </table>
+</td>
+</tr>
+</table>
 
+<table>
+<tr>
+<td>
+<table style="float: left;">
+<tr>
+<td><strong>Input</strong></td>
+<td><strong>Output</strong></td>
+</tr>
+<tr>
+<td>
+Loogi
+<br>8
+<br>20
+<br>2
+<br>14
+</td>
+<td>
+<br>Name: Loogi
+<br>Health: |||||||||............|
+<br>Energy: |||............|	
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table style="float: right;">
+<tr>
+<td><strong>Input</strong></td>
+<td><strong>Output</strong></td>
+</tr>
+<tr>
+<td>
+Toad
+<br>0
+<br>5
+<br>0
+<br>10
+</td>
+<td>
+Name: Bauser
+<br>Health: |.....|
+<br>Energy: |..........|
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
 
 
 #### Hints
