@@ -12,10 +12,10 @@ namespace RectangleArea
             double width = double.Parse(Console.ReadLine());
             
             // Calculate rectangle's area.
-            double sum = height * width;
+            double area = height * width;
             
             // Output result with precision up to two decimal places.
-            Console.WriteLine("{0:F2}", sum);
+            Console.WriteLine("{0:F2}", area);
         }
     }
 }
