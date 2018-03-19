@@ -4,9 +4,9 @@ Software Technologies repository (group project)
 # Who is who details:
 
 - Vladimir Georgiev - Member 1 (Team Leader) and Member 5,
-- Kristian Dimitrov - Member 2,
+- Kristian Dimitrov/ Aleksandar Dimitrov - Member 2,
 - Aleksandar Dimitrov - Member 3,
-- Yanka Georgieva - Member 4;
+- Yanka Georgieva/ Vladimir Georgiev - Member 4;
 
 # Description of homework exercises:
 
