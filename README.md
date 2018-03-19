@@ -189,7 +189,7 @@ Toad
 <br>10
 </td>
 <td>
-Name: Bauser
+Name: Toad
 <br>Health: |.....|
 <br>Energy: |..........|
 </td>
